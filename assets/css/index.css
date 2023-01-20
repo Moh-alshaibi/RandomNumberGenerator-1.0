@@ -3,3 +3,14 @@
     font-weight:bold;
     text-align:center;
 }
+.container{
+    border:2px solid red;
+    border-radius:5px;
+    text-align:center;
+
+}
+.buttons{
+    display: flex;
+    flex-direction: column;
+    
+}
